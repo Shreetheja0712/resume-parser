@@ -1,0 +1,16 @@
+Shreetheja Vasala
+Email: teja.vasala@example.com
+Phone: 123-456-7890
+
+B.Tech CSE
+NIT Andhra Pradesh
+
+Skills:
+C++, Python, React, Node.js, PostgreSQL
+
+Projects:
+ShopMasti - E-commerce application
+CampusResolve - College complaint management app
+
+Experience:
+Software Engineer Intern at Tech Solutions Inc. (June 2022 - August 2022)
